@@ -1,4 +1,4 @@
 3
 2
 1
-we are going to record some git conmands here.
+we are going to record some git commands here.
